@@ -3,16 +3,16 @@
 
 print("Hello World!")   # print hello world
 
-print(2 + 3)   # addition(+)
-print(3 - 1)   # subtraction(-)
-print(2 * 3)   # multiplication(*)
-print(3 + 2)   # addition(+)
-print(3 - 2)   # subtraction(-)
-print(3 * 2)   # multiplication(*)
-print(3 / 2)   # division(/)
-print(3 ** 2)  # exponential(**)
-print(3 % 2)   # modulus(%)
-print(3 // 2)  # Floor division operator(//)
+print(f" adding 2 + 3 : {2 + 3}")                 # addition(+)
+print(f" subtracting 3 - 1 : {3 - 1}")            # subtraction(-)
+print(f" multiplying 2 * 3 : {2 * 3}")            # multiplication(*)
+print(f" adding 3 + 2 : {3 + 2}")                 # addition(+)
+print(f" subtracting 3 - 2 : {3 - 2}")            # subtraction(-)
+print(f" multiplying 3 * 2 : {3 * 2}")            # multiplication(*)
+print(f" dividing 3 / 2 : {3 / 2}")               # division(/)
+print(f" exponential 3 ** 2 : {3 ** 2}")          # exponential(**)
+print(f" modulus 3 % 2 : {3 % 2}")                # modulus(%)
+print(f" floor division 3 // 2 : {3 // 2}")       # Floor division operator(//)
 
 # Checking data types
 
